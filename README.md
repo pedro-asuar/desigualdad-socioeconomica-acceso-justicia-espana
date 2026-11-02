@@ -32,6 +32,7 @@ Se utilizaron estadísticos descriptivos y el coeficiente de correlación de Pea
 
 ## Herramientas utilizadas
 
+- **Excel:** organización, revisión y preparación de los datos.
 - **Python:** tratamiento y análisis exploratorio de datos.
 - **SQL:** consultas y comprobaciones de la base de datos.
 - **Power BI:** visualización y representación de resultados.
