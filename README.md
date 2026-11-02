@@ -66,4 +66,5 @@ Proyecto personal de análisis de datos e investigación social, desarrollado co
 ## Autor
 
 Pedro Asuar Gabino
+
 LinkedIn: www.linkedin.com/in/pedro-asuar-gabino-06aa40359
