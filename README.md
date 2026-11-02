@@ -63,6 +63,12 @@ El estudio tiene carácter observacional, transversal y exploratorio. Sus result
 
 Proyecto personal de análisis de datos e investigación social, desarrollado como ejercicio de análisis cuantitativo e interpretación sociológica y antropológica.
 
+**Nota sobre fuentes y reutilización**
+
+Este proyecto utiliza información estadística procedente del Instituto Nacional de Estadística (INE) y datos publicados por el Observatorio de Justicia Gratuita de la Abogacía Española. Las fuentes originales se identifican en el apartado de fuentes de información.
+
+Los cálculos, el tratamiento de los datos y las visualizaciones son de elaboración propia. Este trabajo tiene carácter independiente y no implica respaldo ni colaboración institucional de las entidades mencionadas.
+
 ## Autor
 
 Pedro Asuar Gabino
