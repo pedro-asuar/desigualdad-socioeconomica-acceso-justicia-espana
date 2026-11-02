@@ -62,3 +62,8 @@ El estudio tiene carácter observacional, transversal y exploratorio. Sus result
 ## Alcance
 
 Proyecto personal de análisis de datos e investigación social, desarrollado como ejercicio de análisis cuantitativo e interpretación sociológica y antropológica.
+
+## Autor
+
+Pedro Asuar Gabino
+LinkedIn: www.linkedin.com/in/pedro-asuar-gabino-06aa40359
